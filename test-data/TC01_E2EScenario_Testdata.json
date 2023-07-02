@@ -1,0 +1,23 @@
+[
+    {
+        "varEmail": "srirammithra@gmail.com",
+        "varPassword": "Mar@2023",
+        "varProduct": "adidas original",
+        "varCCNumber": "4012999999999999",
+        "varCCMonth": "10",
+        "varCCYear": "25",
+        "varCCName": "Siya",
+        "varCCCountry": "India"
+    },
+
+    {
+        "varEmail": "srirammithra@gmail.com",
+        "varPassword": "Mar@2023",
+        "varProduct": "zara coat 3",
+        "varCCNumber": "4012999999999999",
+        "varCCMonth": "10",
+        "varCCYear": "25",
+        "varCCName": "Siya",
+        "varCCCountry": "India"
+    }
+]

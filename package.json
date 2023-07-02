@@ -1,0 +1,19 @@
+{
+  "name": "playwrightframeworkjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:chrome": "npx playwright test --config=playwright.config.js --project=Chromium",
+    "test:firefox": "npx playwright test --config=playwright.config.js --project=Firefox",
+    "test:edge": "npx playwright test --config=playwright.config.js --project=Edge"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.33.0",
+    "allure-playwright": "^2.4.0"
+  }
+}
